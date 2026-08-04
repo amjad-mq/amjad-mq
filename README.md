@@ -2,7 +2,7 @@
 
 **Android Developer** · Kotlin · Jetpack Compose · Sahiwal, Pakistan 🇵🇰
 
-I'm a BS Computer Science student at the **University of Sahiwal** with a passion for building practical Android applications that solve real-world problems. I enjoy creating clean, modern, and user-focused apps while continuously improving my software engineering skills.
+I build modern Android applications with a focus on clean architecture, intuitive user experiences, and maintainable code. Passionate about solving real-world problems through technology and continuously improving my software engineering skills.
 
 Currently focused on:
 
