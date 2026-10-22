@@ -70,5 +70,5 @@ I am seeking opportunities to grow as a **Junior Android Developer** or **Associ
 
 * **Muhammad Amjad:** *https://amjad-portfolio.w3spaces.com/*
 * **GitHub:** https://github.com/amjad-mq
-* **LinkedIn:** *https://www.linkedin.com/in/muhammad-amjad-5088a43a7*
+* **LinkedIn:** *https://www.linkedin.com/in/muhammad-amjad-cs*
 * **Email:** *amjad.venv@gmail.com*
